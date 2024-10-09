@@ -1,0 +1,28 @@
+C:\Users\abbas\Documents\School\CompSci\C#\Projects\Binomial Expansion\Binomial Expansion\bin\Debug\net8.0\Binomial Expansion.exe
+C:\Users\abbas\Documents\School\CompSci\C#\Projects\Binomial Expansion\Binomial Expansion\bin\Debug\net8.0\Binomial Expansion.deps.json
+C:\Users\abbas\Documents\School\CompSci\C#\Projects\Binomial Expansion\Binomial Expansion\bin\Debug\net8.0\Binomial Expansion.runtimeconfig.json
+C:\Users\abbas\Documents\School\CompSci\C#\Projects\Binomial Expansion\Binomial Expansion\bin\Debug\net8.0\Binomial Expansion.dll
+C:\Users\abbas\Documents\School\CompSci\C#\Projects\Binomial Expansion\Binomial Expansion\bin\Debug\net8.0\Binomial Expansion.pdb
+C:\Users\abbas\Documents\School\CompSci\C#\Projects\Binomial Expansion\Binomial Expansion\obj\Debug\net8.0\Binomial Expansion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abbas\Documents\School\CompSci\C#\Projects\Binomial Expansion\Binomial Expansion\obj\Debug\net8.0\Binomial Expansion.AssemblyInfoInputs.cache
+C:\Users\abbas\Documents\School\CompSci\C#\Projects\Binomial Expansion\Binomial Expansion\obj\Debug\net8.0\Binomial Expansion.AssemblyInfo.cs
+C:\Users\abbas\Documents\School\CompSci\C#\Projects\Binomial Expansion\Binomial Expansion\obj\Debug\net8.0\Binomial Expansion.csproj.CoreCompileInputs.cache
+C:\Users\abbas\Documents\School\CompSci\C#\Projects\Binomial Expansion\Binomial Expansion\obj\Debug\net8.0\Binomial Expansion.dll
+C:\Users\abbas\Documents\School\CompSci\C#\Projects\Binomial Expansion\Binomial Expansion\obj\Debug\net8.0\refint\Binomial Expansion.dll
+C:\Users\abbas\Documents\School\CompSci\C#\Projects\Binomial Expansion\Binomial Expansion\obj\Debug\net8.0\Binomial Expansion.pdb
+C:\Users\abbas\Documents\School\CompSci\C#\Projects\Binomial Expansion\Binomial Expansion\obj\Debug\net8.0\Binomial Expansion.genruntimeconfig.cache
+C:\Users\abbas\Documents\School\CompSci\C#\Projects\Binomial Expansion\Binomial Expansion\obj\Debug\net8.0\ref\Binomial Expansion.dll
+C:\Users\abbas\Documents\School\CompSci\C#\Projects\Binomial Expansion 3 kyu\Binomial Expansion\bin\Debug\net8.0\Binomial Expansion.exe
+C:\Users\abbas\Documents\School\CompSci\C#\Projects\Binomial Expansion 3 kyu\Binomial Expansion\bin\Debug\net8.0\Binomial Expansion.deps.json
+C:\Users\abbas\Documents\School\CompSci\C#\Projects\Binomial Expansion 3 kyu\Binomial Expansion\bin\Debug\net8.0\Binomial Expansion.runtimeconfig.json
+C:\Users\abbas\Documents\School\CompSci\C#\Projects\Binomial Expansion 3 kyu\Binomial Expansion\bin\Debug\net8.0\Binomial Expansion.dll
+C:\Users\abbas\Documents\School\CompSci\C#\Projects\Binomial Expansion 3 kyu\Binomial Expansion\bin\Debug\net8.0\Binomial Expansion.pdb
+C:\Users\abbas\Documents\School\CompSci\C#\Projects\Binomial Expansion 3 kyu\Binomial Expansion\obj\Debug\net8.0\Binomial Expansion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abbas\Documents\School\CompSci\C#\Projects\Binomial Expansion 3 kyu\Binomial Expansion\obj\Debug\net8.0\Binomial Expansion.AssemblyInfoInputs.cache
+C:\Users\abbas\Documents\School\CompSci\C#\Projects\Binomial Expansion 3 kyu\Binomial Expansion\obj\Debug\net8.0\Binomial Expansion.AssemblyInfo.cs
+C:\Users\abbas\Documents\School\CompSci\C#\Projects\Binomial Expansion 3 kyu\Binomial Expansion\obj\Debug\net8.0\Binomial Expansion.csproj.CoreCompileInputs.cache
+C:\Users\abbas\Documents\School\CompSci\C#\Projects\Binomial Expansion 3 kyu\Binomial Expansion\obj\Debug\net8.0\Binomial Expansion.dll
+C:\Users\abbas\Documents\School\CompSci\C#\Projects\Binomial Expansion 3 kyu\Binomial Expansion\obj\Debug\net8.0\refint\Binomial Expansion.dll
+C:\Users\abbas\Documents\School\CompSci\C#\Projects\Binomial Expansion 3 kyu\Binomial Expansion\obj\Debug\net8.0\Binomial Expansion.pdb
+C:\Users\abbas\Documents\School\CompSci\C#\Projects\Binomial Expansion 3 kyu\Binomial Expansion\obj\Debug\net8.0\Binomial Expansion.genruntimeconfig.cache
+C:\Users\abbas\Documents\School\CompSci\C#\Projects\Binomial Expansion 3 kyu\Binomial Expansion\obj\Debug\net8.0\ref\Binomial Expansion.dll
