@@ -1,0 +1,14 @@
+C:\Users\abbas\Documents\School\CompSci\C#\Projects\Human Readable Time\Human Readable Time\bin\Release\net8.0\Human Readable Time.exe
+C:\Users\abbas\Documents\School\CompSci\C#\Projects\Human Readable Time\Human Readable Time\bin\Release\net8.0\Human Readable Time.deps.json
+C:\Users\abbas\Documents\School\CompSci\C#\Projects\Human Readable Time\Human Readable Time\bin\Release\net8.0\Human Readable Time.runtimeconfig.json
+C:\Users\abbas\Documents\School\CompSci\C#\Projects\Human Readable Time\Human Readable Time\bin\Release\net8.0\Human Readable Time.dll
+C:\Users\abbas\Documents\School\CompSci\C#\Projects\Human Readable Time\Human Readable Time\bin\Release\net8.0\Human Readable Time.pdb
+C:\Users\abbas\Documents\School\CompSci\C#\Projects\Human Readable Time\Human Readable Time\obj\Release\net8.0\Human Readable Time.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abbas\Documents\School\CompSci\C#\Projects\Human Readable Time\Human Readable Time\obj\Release\net8.0\Human Readable Time.AssemblyInfoInputs.cache
+C:\Users\abbas\Documents\School\CompSci\C#\Projects\Human Readable Time\Human Readable Time\obj\Release\net8.0\Human Readable Time.AssemblyInfo.cs
+C:\Users\abbas\Documents\School\CompSci\C#\Projects\Human Readable Time\Human Readable Time\obj\Release\net8.0\Human Readable Time.csproj.CoreCompileInputs.cache
+C:\Users\abbas\Documents\School\CompSci\C#\Projects\Human Readable Time\Human Readable Time\obj\Release\net8.0\Human Readable Time.dll
+C:\Users\abbas\Documents\School\CompSci\C#\Projects\Human Readable Time\Human Readable Time\obj\Release\net8.0\refint\Human Readable Time.dll
+C:\Users\abbas\Documents\School\CompSci\C#\Projects\Human Readable Time\Human Readable Time\obj\Release\net8.0\Human Readable Time.pdb
+C:\Users\abbas\Documents\School\CompSci\C#\Projects\Human Readable Time\Human Readable Time\obj\Release\net8.0\Human Readable Time.genruntimeconfig.cache
+C:\Users\abbas\Documents\School\CompSci\C#\Projects\Human Readable Time\Human Readable Time\obj\Release\net8.0\ref\Human Readable Time.dll
