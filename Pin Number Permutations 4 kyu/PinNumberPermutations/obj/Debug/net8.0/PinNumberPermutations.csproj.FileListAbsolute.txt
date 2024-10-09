@@ -1,0 +1,14 @@
+C:\Users\abbas\Documents\School\CompSci\C#\Projects\Pin Number Permutations\PinNumberPermutations\bin\Debug\net8.0\PinNumberPermutations.exe
+C:\Users\abbas\Documents\School\CompSci\C#\Projects\Pin Number Permutations\PinNumberPermutations\bin\Debug\net8.0\PinNumberPermutations.deps.json
+C:\Users\abbas\Documents\School\CompSci\C#\Projects\Pin Number Permutations\PinNumberPermutations\bin\Debug\net8.0\PinNumberPermutations.runtimeconfig.json
+C:\Users\abbas\Documents\School\CompSci\C#\Projects\Pin Number Permutations\PinNumberPermutations\bin\Debug\net8.0\PinNumberPermutations.dll
+C:\Users\abbas\Documents\School\CompSci\C#\Projects\Pin Number Permutations\PinNumberPermutations\bin\Debug\net8.0\PinNumberPermutations.pdb
+C:\Users\abbas\Documents\School\CompSci\C#\Projects\Pin Number Permutations\PinNumberPermutations\obj\Debug\net8.0\PinNumberPermutations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abbas\Documents\School\CompSci\C#\Projects\Pin Number Permutations\PinNumberPermutations\obj\Debug\net8.0\PinNumberPermutations.AssemblyInfoInputs.cache
+C:\Users\abbas\Documents\School\CompSci\C#\Projects\Pin Number Permutations\PinNumberPermutations\obj\Debug\net8.0\PinNumberPermutations.AssemblyInfo.cs
+C:\Users\abbas\Documents\School\CompSci\C#\Projects\Pin Number Permutations\PinNumberPermutations\obj\Debug\net8.0\PinNumberPermutations.csproj.CoreCompileInputs.cache
+C:\Users\abbas\Documents\School\CompSci\C#\Projects\Pin Number Permutations\PinNumberPermutations\obj\Debug\net8.0\PinNumberPermutations.dll
+C:\Users\abbas\Documents\School\CompSci\C#\Projects\Pin Number Permutations\PinNumberPermutations\obj\Debug\net8.0\refint\PinNumberPermutations.dll
+C:\Users\abbas\Documents\School\CompSci\C#\Projects\Pin Number Permutations\PinNumberPermutations\obj\Debug\net8.0\PinNumberPermutations.pdb
+C:\Users\abbas\Documents\School\CompSci\C#\Projects\Pin Number Permutations\PinNumberPermutations\obj\Debug\net8.0\PinNumberPermutations.genruntimeconfig.cache
+C:\Users\abbas\Documents\School\CompSci\C#\Projects\Pin Number Permutations\PinNumberPermutations\obj\Debug\net8.0\ref\PinNumberPermutations.dll
