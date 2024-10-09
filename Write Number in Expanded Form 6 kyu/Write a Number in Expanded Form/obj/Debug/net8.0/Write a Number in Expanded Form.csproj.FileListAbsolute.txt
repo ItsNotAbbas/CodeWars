@@ -1,0 +1,14 @@
+C:\Users\abbas\Documents\School\CompSci\C#\Projects\Write Number in Expanded Form 6 kyu\Write a Number in Expanded Form\bin\Debug\net8.0\Write a Number in Expanded Form.exe
+C:\Users\abbas\Documents\School\CompSci\C#\Projects\Write Number in Expanded Form 6 kyu\Write a Number in Expanded Form\bin\Debug\net8.0\Write a Number in Expanded Form.deps.json
+C:\Users\abbas\Documents\School\CompSci\C#\Projects\Write Number in Expanded Form 6 kyu\Write a Number in Expanded Form\bin\Debug\net8.0\Write a Number in Expanded Form.runtimeconfig.json
+C:\Users\abbas\Documents\School\CompSci\C#\Projects\Write Number in Expanded Form 6 kyu\Write a Number in Expanded Form\bin\Debug\net8.0\Write a Number in Expanded Form.dll
+C:\Users\abbas\Documents\School\CompSci\C#\Projects\Write Number in Expanded Form 6 kyu\Write a Number in Expanded Form\bin\Debug\net8.0\Write a Number in Expanded Form.pdb
+C:\Users\abbas\Documents\School\CompSci\C#\Projects\Write Number in Expanded Form 6 kyu\Write a Number in Expanded Form\obj\Debug\net8.0\Write a Number in Expanded Form.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abbas\Documents\School\CompSci\C#\Projects\Write Number in Expanded Form 6 kyu\Write a Number in Expanded Form\obj\Debug\net8.0\Write a Number in Expanded Form.AssemblyInfoInputs.cache
+C:\Users\abbas\Documents\School\CompSci\C#\Projects\Write Number in Expanded Form 6 kyu\Write a Number in Expanded Form\obj\Debug\net8.0\Write a Number in Expanded Form.AssemblyInfo.cs
+C:\Users\abbas\Documents\School\CompSci\C#\Projects\Write Number in Expanded Form 6 kyu\Write a Number in Expanded Form\obj\Debug\net8.0\Write a Number in Expanded Form.csproj.CoreCompileInputs.cache
+C:\Users\abbas\Documents\School\CompSci\C#\Projects\Write Number in Expanded Form 6 kyu\Write a Number in Expanded Form\obj\Debug\net8.0\Write a Number in Expanded Form.dll
+C:\Users\abbas\Documents\School\CompSci\C#\Projects\Write Number in Expanded Form 6 kyu\Write a Number in Expanded Form\obj\Debug\net8.0\refint\Write a Number in Expanded Form.dll
+C:\Users\abbas\Documents\School\CompSci\C#\Projects\Write Number in Expanded Form 6 kyu\Write a Number in Expanded Form\obj\Debug\net8.0\Write a Number in Expanded Form.pdb
+C:\Users\abbas\Documents\School\CompSci\C#\Projects\Write Number in Expanded Form 6 kyu\Write a Number in Expanded Form\obj\Debug\net8.0\Write a Number in Expanded Form.genruntimeconfig.cache
+C:\Users\abbas\Documents\School\CompSci\C#\Projects\Write Number in Expanded Form 6 kyu\Write a Number in Expanded Form\obj\Debug\net8.0\ref\Write a Number in Expanded Form.dll
